@@ -1,0 +1,9 @@
+torch==0.4
+torchvision
+Cython
+cffi
+easydict
+scipy
+matplotlib
+opencv-python
+pyyaml
